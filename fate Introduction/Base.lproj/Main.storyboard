@@ -642,7 +642,7 @@
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="19" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IWa-Hx-Lsw">
                                                     <rect key="frame" x="20" y="-12" width="374" height="506"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <string key="text">各位讀者好，這是由我最近很沈迷的一款手機遊戲ＦＧＯ所改編的同人小說，劇情參考自Fate/Grand Order -First Order-，這同時也是系上課程的作業  由於時間的關係我沒有把小說寫完，篇幅也只有少少四篇，但如果讀者願意讀完我寫的前面四個小節，我也會非常的開心，謝謝各位！</string>
+                                                    <string key="text">各位讀者好，這是由我最近很沈迷的一款手機遊戲ＦＧＯ所改編的同人小說，劇情參考自 Fate/Grand Order -First Order-，這同時也是系上課程的作業  由於時間的關係我沒有把小說寫完，篇幅也只有少少四篇，但如果讀者願意讀完我寫的前面四個小節，我也會非常的開心，謝謝各位！</string>
                                                     <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -666,7 +666,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="XgA-5o-L4p" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="7158" y="616"/>
+            <point key="canvasLocation" x="7157.971014492754" y="615.40178571428567"/>
         </scene>
         <!--Item-->
         <scene sceneID="OUm-0G-fU3">
@@ -689,7 +689,7 @@
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="100" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TXf-5h-xI9">
                                                     <rect key="frame" x="20" y="-177" width="374" height="2085"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <mutableString key="text">「啊啊，被趕出來了呀，前輩」
+                                                    <string key="text">「啊啊，被趕出來了呀，前輩」
 
 「瑪⋯⋯瑪修」
 「哎唷！畢竟那個很聒噪的女生，講話太無聊了嘛」一邊抱怨著，一邊與瑪修往大廳走去
@@ -713,7 +713,7 @@
 
 「欸？」
 
-突然，轟地一聲，爆炸的聲響傳遍整棟建築物</mutableString>
+突然，轟地一聲，爆炸的聲響傳遍整棟建築物</string>
                                                     <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -808,7 +808,7 @@
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="80" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EU6-2w-1a6">
                                                     <rect key="frame" x="20" y="32" width="374" height="1510"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <mutableString key="text">「欸？！這裡是？」面對突然出現在眼前的紫髮少女，不經思索的就脫口而問
+                                                    <string key="text">「欸？！這裡是？」面對突然出現在眼前的紫髮少女，不經思索的就脫口而問
 
 「⋯⋯⋯⋯」少女稍微轉移了視線
 「這裡是人理延續保障機構·迦勒底」她無表情地繼續說著
@@ -830,7 +830,7 @@
 「這麼說起來，其實瑪修你才是我的前輩呢！」
 
 「我只是習慣每個人都用前輩來稱呼而已」
-「走吧，Master 們的說明會就要開始了」瑪修起身，往會議的方向走去</mutableString>
+「走吧，Master 們的說明會就要開始了」瑪修起身，往會議的方向走去</string>
                                                     <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
@@ -873,7 +873,7 @@
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" lineBreakMode="tailTruncation" numberOfLines="69" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hq4-4o-2mR">
                                                     <rect key="frame" x="20" y="11" width="374" height="1026"/>
                                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                                    <mutableString key="text">「你們之所以被召集到這邊，是因為你們具備 Master 的潛力」白髮女子站在講台中間大聲地演講著－－
+                                                    <string key="text">「你們之所以被召集到這邊，是因為你們具備 Master 的潛力」白髮女子站在講台中間大聲地演講著－－
 「這樣的才能很特別，需要藉助這份力量幫助伽勒底」
 「我們將會使用伽勒底的技術，將你們傳送到各個被扭曲的時空」
 「而 Master 將會帶著被選上的 Servant 一同修復錯誤的歷史」
@@ -887,7 +887,7 @@
 
 「呼呼－－－－」
 
-「居然！居然有人膽敢在這邊睡覺」</mutableString>
+「居然！居然有人膽敢在這邊睡覺」</string>
                                                     <fontDescription key="fontDescription" type="system" pointSize="30"/>
                                                     <nil key="textColor"/>
                                                     <nil key="highlightedColor"/>
